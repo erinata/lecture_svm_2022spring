@@ -1,7 +1,5 @@
 import kfold_template
-
 import pandas
-
 from matplotlib import pyplot
 
 from sklearn import svm
