@@ -8,7 +8,7 @@ import numpy
 
 from sklearn import svm
 
-dataset = pandas.read_csv("datasets/dataset_svm_2.csv")
+dataset = pandas.read_csv("datasets/dataset_svm_3.csv")
 
 dataset['x3'] = dataset['x1']**2 + dataset['x2']**2
 
